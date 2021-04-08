@@ -1,0 +1,6 @@
+./output 100 set_100_print.dat print
+./output 100 set_100_noprint.dat
+./output 1000 set_1000_print.dat print
+./output 1000 set_1000_noprint.dat
+./output 100000 set_100000_print.dat print
+./output 100000 set_100000_noprint.dat
